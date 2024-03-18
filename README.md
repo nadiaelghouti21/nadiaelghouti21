@@ -7,8 +7,8 @@
 
 - <b>Search Engine</b>
   - [comparison of sorting algorithms in C++](https://github.com/nadiaelghouti21/compare_sorting_algo/tree/main)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Printer System Simulation using Operator Overloading and Multithreading Techniques</b>
+  - [simulation (c++)](https://github.com/nadiaelghouti21/Printer-System-Simulation/commits?author=nadiaelghouti21) </b>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
