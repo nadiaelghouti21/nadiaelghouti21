@@ -1,5 +1,8 @@
 <h1>Hi, I'm Nadia! </h1>
-
+<h2> Education:</h2>
+  -  Bachelors in computer science and engineering
+<h2> Work Experience</h2>
+  - Learning Assistant, Sabanci University, Istanbul, Turkey              		
 <h2>👨‍💻 programming Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
