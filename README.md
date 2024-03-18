@@ -8,7 +8,7 @@
 - <b>C++ Projects</b>
   - [Search Engine](https://github.com/nadiaelghouti21/compare_sorting_algo/tree/main)
   - [Printer System Simulation using Operator Overloading and Multithreading Techniques](https://github.com/nadiaelghouti21/Printer-System-Simulation/commits?author=nadiaelghouti21) </b>
-  - [Maze Generator](https://github.com/nadiaelghouti21/Printer-System-Simulation/commits?author=nadiaelghouti21) </b>
+  - [Maze Generator](https://github.com/nadiaelghouti21/maze_generator/commits?author=nadiaelghouti21) </b>
 - <b>Java Projects</b>
   - Android App "Kitty Me"
     - [Backend (java)](https://github.com/nadiaelghouti21/android_app/blob/main/Group%20032%20CS310%20Backend.zip)
