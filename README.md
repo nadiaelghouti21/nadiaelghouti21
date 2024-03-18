@@ -10,10 +10,9 @@
 - <b>Printer System Simulation using Operator Overloading and Multithreading Techniques</b>
   - [simulation (c++)](https://github.com/nadiaelghouti21/Printer-System-Simulation/commits?author=nadiaelghouti21) </b>
 - <b>Android App "Kitty Me"</b>
-  - [Backend](https://github.com/nadiaelghouti21/android_app/commits?author=nadiaelghouti21)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+  - [Backend (java)](https://github.com/nadiaelghouti21/android_app/blob/main/Group%20032%20CS310%20Backend.zip)
+  - [frontend](https://github.com/nadiaelghouti21/android_app/blob/main/Group%20032%20Frontend%202.zip)
+  
 - <b>C# (.NET Desktop Applications)</b>
   - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
