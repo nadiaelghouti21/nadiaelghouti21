@@ -5,13 +5,14 @@
   - Learning Assistant, Sabanci University, Istanbul, Turkey              		
 <h2>👨‍💻 programming Projects:</h2>
 
-- <b>Search Engine</b>
-  - [comparison of sorting algorithms in C++](https://github.com/nadiaelghouti21/compare_sorting_algo/tree/main)
-- <b>Printer System Simulation using Operator Overloading and Multithreading Techniques</b>
-  - [simulation (c++)](https://github.com/nadiaelghouti21/Printer-System-Simulation/commits?author=nadiaelghouti21) </b>
-- <b>Android App "Kitty Me"</b>
-  - [Backend (java)](https://github.com/nadiaelghouti21/android_app/blob/main/Group%20032%20CS310%20Backend.zip)
-  - [frontend](https://github.com/nadiaelghouti21/android_app/blob/main/Group%20032%20Frontend%202.zip)
+- <b>C++ Projects</b>
+  - [Search Engine](https://github.com/nadiaelghouti21/compare_sorting_algo/tree/main)
+  - [Printer System Simulation using Operator Overloading and Multithreading Techniques](https://github.com/nadiaelghouti21/Printer-System-Simulation/commits?author=nadiaelghouti21) </b>
+  - [Maze Generator](https://github.com/nadiaelghouti21/Printer-System-Simulation/commits?author=nadiaelghouti21) </b>
+- <b>Java Projects</b>
+  - Android App "Kitty Me"
+    - [Backend (java)](https://github.com/nadiaelghouti21/android_app/blob/main/Group%20032%20CS310%20Backend.zip)
+    - [frontend](https://github.com/nadiaelghouti21/android_app/blob/main/Group%20032%20Frontend%202.zip)
   
 
     
