@@ -15,6 +15,8 @@
     - [frontend](https://github.com/nadiaelghouti21/android_app/blob/main/Group%20032%20Frontend%202.zip)
 - <b>NoSQL Projects</b>
    - [Movies Database](https://github.com/nadiaelghouti21/movie_database/commits?author=nadiaelghouti21)
+- <b>C# Projects</b>
+   - [DiSUcord, Simple Message Networking via Channels](https://github.com/nadiaelghouti21/DiSUcord/commits?author=nadiaelghouti21)
 
     
 <h2> Certifictions:</h2>
@@ -32,7 +34,7 @@
 [linkedin]: http://linkedin.com/in/nadia-elghouti-8938912ab
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
