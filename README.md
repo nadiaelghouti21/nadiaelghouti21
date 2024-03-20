@@ -13,7 +13,7 @@
   - Android App "Kitty Me"
     - [Backend](https://github.com/nadiaelghouti21/android_app/blob/main/Group%20032%20CS310%20Backend.zip)
     - [frontend](https://github.com/nadiaelghouti21/android_app/blob/main/Group%20032%20Frontend%202.zip)
-- <b>NoSGL Projects</b>
+- <b>NoSQL Projects</b>
    - [Movies Database](https://github.com/nadiaelghouti21/movie_database/commits?author=nadiaelghouti21)
 
     
