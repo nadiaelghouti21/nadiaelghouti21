@@ -1,7 +1,7 @@
 <h1>Hi, I'm Nadia Elghouti👋 </h1>
 <h2> About Me:</h2>
-  - 🎓 I am currently pursuing my Bachelor's in Computer Science and Engineering
-  - 📫 Reach me at nadia.alghouti@gmail.com
+- 🎓 I am currently pursuing my Bachelor's in Computer Science and Engineering  
+- 📫 Reach me at nadia.alghouti@gmail.com
 <h2> Work Experience</h2>
   - Learning Assistant, Sabanci University, Istanbul, Turkey              		
 <h2>👨‍💻 programming Projects:</h2>
