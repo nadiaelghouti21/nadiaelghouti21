@@ -1,10 +1,14 @@
 <h1>Hi, I'm Nadia Elghouti👋 </h1>
 <h2> About Me:</h2>
-- 🎓 I am currently pursuing my Bachelor's in Computer Science and Engineering <br>
+- 🎓 I am currently pursuing my Bachelor's in Computer Science and Engineering and minor in Businees Analytics <br>
 - 📫 Reach me at nadia.alghouti@gmail.com
 <h2> Work Experience</h2>
-  - Learning Assistant, Sabanci University, Istanbul, Turkey              		
+  - Undergraduate Project course (Proj 201) Learning Assistant, Sabanci University, Istanbul, Turkey
+  - Backed Developer, Pa Group, Brussels, Belgium
+  - Advanced Programming course Learning Assistant, Sabanci University, Istanbul, Turkey              		
 <h2>👨‍💻 programming Projects:</h2>
+- <b>PHP Projects</b>
+  - [CyberSecurity Project: Ukranian News Website](https://github.com/nedamohamed/cs437-cybersecurity.git)
 
 - <b>C++ Projects</b>
   - [Search Engine](https://github.com/nadiaelghouti21/compare_sorting_algo/tree/main)
